@@ -47,7 +47,7 @@
 
 // Connections parameters
 int aiAPTemp[2] = {0,1}; // Analogic Pin for LM35  inside[0] and outside[1]
-int iDPFan = 13; // Digital Pin of "Set" button
+int iDPFan = 13; // Digital Pin for fan trigger control
 int iDPBtnMode = 12; // Digital Pin of "Set" button
 int iDPBtnMinus = 11; // Digital Pin of "Minus" button
 int iDPBtnPlus = 10; // Digital Pin of "Plus" Button
